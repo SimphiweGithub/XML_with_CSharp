@@ -1,0 +1,7 @@
+C:\Users\Simphwe Khumalo\source\repos\Learning unit 4 xml\bin\Debug\Learning unit 4 xml.exe.config
+C:\Users\Simphwe Khumalo\source\repos\Learning unit 4 xml\bin\Debug\Learning unit 4 xml.exe
+C:\Users\Simphwe Khumalo\source\repos\Learning unit 4 xml\bin\Debug\Learning unit 4 xml.pdb
+C:\Users\Simphwe Khumalo\source\repos\Learning unit 4 xml\obj\Debug\Learning unit 4 xml.csproj.AssemblyReference.cache
+C:\Users\Simphwe Khumalo\source\repos\Learning unit 4 xml\obj\Debug\Learning unit 4 xml.csproj.CoreCompileInputs.cache
+C:\Users\Simphwe Khumalo\source\repos\Learning unit 4 xml\obj\Debug\Learning unit 4 xml.exe
+C:\Users\Simphwe Khumalo\source\repos\Learning unit 4 xml\obj\Debug\Learning unit 4 xml.pdb
